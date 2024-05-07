@@ -7,7 +7,7 @@ Ovaj repozitorij sadrži tri jednostavna C++ primjera koji demonstriraju korišt
 Registracija na GitHub: Kreirala sam GitHub nalog posjetom na stranicu https://github.com/ i popunila tražene podatke.
 
 # Podnaslov
-## Primjeri
+### Primjeri
 
 1. Najmanji broj: Program koji koristi funkciju za određivanje manjeg od dva unesena broja.
    - Datoteka: `Code_1`
@@ -18,16 +18,18 @@ Registracija na GitHub: Kreirala sam GitHub nalog posjetom na stranicu https://g
 3. Prosjek niza: Program koji koristi funkciju za izračun prosjeka elemenata u nizu.
    - Datoteka: `Code_3`
 
-## Kako Koristiti
+### Kako Koristiti
 1. Kopirajte repozitorij na računar koristeći naredbu git clone.
 2. Kompajlirajte željeni program koristeći C++ kompajler.
 3. Pokrenite izvršnu datoteku generiranu kompajliranjem programa.
 
-## Autor
+### Autor
 Ovaj repozitorij je kreirala Kulović Hanan.
 
 
-(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
+![slika_1](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
+
+![slika_2](https://www.novilist.hr/wp-content/uploads/2023/03/iStock-1199279669-717x478.jpg)
 
 
 |  Ime  |  Prezime   | Broj godina |
