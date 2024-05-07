@@ -29,7 +29,6 @@ Ovaj repozitorij je kreirala Kulović Hanan.
 
 (https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
 
-|Neka linija
 
 |  Ime  |  Prezime   | Broj godina |
 |-------|------------|-------------|
