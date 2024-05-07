@@ -27,7 +27,7 @@ Registracija na GitHub: Kreirala sam GitHub nalog posjetom na stranicu https://g
 Ovaj repozitorij je održavala Kulović Hanan.
 
 
-( https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png )
+(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
 
 | Neka linija
 
