@@ -1,1 +1,1 @@
-# moj_prvi_repozitorij
+Seminarski rad iz informatike
