@@ -19,12 +19,12 @@ Registracija na GitHub: Kreirala sam GitHub nalog posjetom na stranicu https://g
    - Datoteka: `Code_3`
 
 ## Kako Koristiti
-1. Kopirajte repozitorij na računar koristeći naredbu `git clone`.
+1. Kopirajte repozitorij na računar koristeći naredbu git clone.
 2. Kompajlirajte željeni program koristeći C++ kompajler.
 3. Pokrenite izvršnu datoteku generiranu kompajliranjem programa.
 
 ## Autor
-Ovaj repozitorij je održavala Kulović Hanan.
+Ovaj repozitorij je kreirala Kulović Hanan.
 
 
 (https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
