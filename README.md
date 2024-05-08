@@ -10,13 +10,13 @@ Registracija na GitHub: Kreirala sam GitHub nalog posjetom na stranicu https://g
 ### Primjeri
 
 1. Najmanji broj: Program koji koristi funkciju za određivanje manjeg od dva unesena broja.
-   - Datoteka: `Code_1`
+   - Datoteka: `Code_1.cpp`
 
 2. Kvadrat broja: Program koji koristi funkciju za računanje kvadrata unesenog broja.
-   - Datoteka: `Code_2`
+   - Datoteka: `Code_2.cpp`
 
 3. Prosjek niza: Program koji koristi funkciju za izračun prosjeka elemenata u nizu.
-   - Datoteka: `Code_3`
+   - Datoteka: `Code_3.cpp`
 
 ### Kako Koristiti
 1. Kopirajte repozitorij na računar koristeći naredbu git clone.
